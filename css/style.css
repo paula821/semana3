@@ -97,7 +97,12 @@ color: #ffffff
 
 .slider{
     grid-area: slider;
-background-color: #ffffff;
+    background: url(../img/slider1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #ffffff;
+    height: 600px;
 }
 
 /*section*/
